@@ -1,0 +1,3 @@
+https://cloud.boltiot.com/remote/api key/digitalWrite?pin=0&state=HIGH&deviceName=BOLTxxxxxx
+
+https://cloud.boltiot.com/remote/api key/digitalWrite?pin=0&state=LOW&deviceName=BOLT1xxxxxx
